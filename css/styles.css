@@ -498,6 +498,7 @@ Buttons
     color: #323a45;
     text-transform: uppercase;
     font-weight: 400;
+	margin-bottom:3em; /*AJOUT A.S.*/
 }
 .read-more-btn i, .download-btn i {
     margin-left: 5px
@@ -733,7 +734,7 @@ Features List
     margin-right: 25px;
     width: 90px;
     height: 90px;
-    border: solid 2px #4e9ba3;
+    /*border: solid 2px #4e9ba3;*/ /*ELEVE IMG.PNG A LA PLACE, by A.S. */
     border-radius: 50%;
     vertical-align: top;
     text-align: center;
@@ -780,7 +781,7 @@ Showcase
     background-size: cover;
 }
 .showcase h1 {
-    margin: 0 0 20px 0;
+    margin: 10px 0 20px 0;
     color: #fff;
     font-weight: 400;
     font-size: 22px;
@@ -1090,4 +1091,12 @@ Waypoints
 .delay-1s {
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
+}
+
+/* ==========================================================================
+AJOUTS Adrien-Alexis
+========================================================================== */
+
+.icones-clefs {
+	size:;
 }
