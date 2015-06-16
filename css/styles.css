@@ -799,13 +799,13 @@ blockquote p {
     vertical-align: top;
     font-style: italic;
 }
-blockquote .avatar {
+/*blockquote .avatar {
     display: inline-block;
     margin-right: 20px;
     width: 64px;
     height: 64px;
     vertical-align: middle;
-}
+}*/
 blockquote .logo-quote {
     display: inline-block;
     margin: 0 0 0 90px;
@@ -815,11 +815,11 @@ blockquote .logo-quote {
 Showcase
 ========================================================================== */
 .showcase {
-    background: url('../img/showcase-bg-fixed-01.jpg') no-repeat center center fixed;
+    background: rgb(35, 41, 46) no-repeat center center fixed;
     background-size: cover;
 }
 .showcase h1 {
-    margin: 10px 0 20px 0;
+    margin: 90px 0 20px 0;
     color: #fff;
     font-weight: 400;
     font-size: 22px;
@@ -834,19 +834,19 @@ Showcase
     left: 20%;
     min-height: 676px;
     width: 359px;
-    background: url('../img/iphone-skeleton.png') no-repeat center center;
+    background: url('../img/phone-skeleton.png') no-repeat center center;
 }
 .device-content {
     position: absolute;
-    top: 115px;
-    left: 56px;
-    width: 247px;
-    height: 445px;
+    top: 100px;
+    left: 42px;
+    width: 273px;
+    height: 484px;
     background: rgba(0, 0, 0, 0.3);
 }
 .device-content img {
-    width: 247px;
-    height: 445px;
+    width: 273px;
+    height: 484px;
 }
 .showcase-wrap {
     position: relative;
