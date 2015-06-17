@@ -1261,6 +1261,8 @@ h1.titresection-blanc {
 }
 
 h1.centreh1 {
+	margin-top : 5%;
+	margin-bottom:2%;
     text-align: center;
 }
 
