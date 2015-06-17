@@ -687,10 +687,11 @@ Features Slider
 }
 .features-slider {
     position: relative;
-    padding: 5% 550px 20% 550px;
+    padding: 5% 32% 20% 32%;
     height: 600px;
-    background-color: #ffffff;
+    background-color: #eaeff3;
 }
+
 .features-slider ul {
     margin: 0;
     padding: 0;
@@ -703,9 +704,10 @@ Features Slider
     margin-bottom: 15px;
     color: #24374b;
     font-weight: 300;
-    font-size: 32px;
+    font-size: 28px;
     font-family: "Roboto Slab", sans-serif;
     text-align: center;
+    line-height: 34px;
 }
 .features-slider li p {
     color: #778899;
@@ -733,7 +735,8 @@ Features Slider
 Features List
 ========================================================================== */
 .features-list {
-    padding: 130px 0
+    padding: 130px 0;
+    background-color: #eaeff3;
 }
 .features-list h1 {
     margin: 0 0 10px 0;
@@ -801,7 +804,7 @@ Espace
 .features-espaces {
     position: relative;
     padding: 11% 100px 10% 100px;
-    background-color: #ffffff;
+    background-color: #eaeff3;
 }
 .features-espaces ul {
     margin: 0;
@@ -825,6 +828,9 @@ Espace
     color: #778899;
     font-size: 16px;
     line-height: 26px;
+}
+.container-fluid {
+    background-color: #eaeff3;
 }
 
 /* ==========================================================================
@@ -1219,5 +1225,14 @@ AJOUTS Adrien-Alexis
     background-size: cover;
 }
 
+h1.titresection {
+    font-size: 40px;
+    line-height: 48px;
+    color: #292d31;
+    font-family: "Roboto Slab", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+}
 
 /* 10 FONDATIONS */
