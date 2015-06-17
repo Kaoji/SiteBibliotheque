@@ -449,10 +449,10 @@ p {
     line-height: 25px;
 }
 a {
-    color: #73d0da
+    color: #4b80c8
 }
 a:hover, a:focus {
-    color: #73d0da;
+    color: #4b80c8;
     text-decoration: none;
 }
 .texture-overlay {
@@ -1026,13 +1026,13 @@ footer ul {
 }
 footer li {
     float: left;
-    margin-right: 15%;
+    margin-right: 4%;
     list-style: none;
     text-transform: uppercase;
     font-weight: 400;
 }
 footer li a {
-    color: #3f6184
+    color: #4b80c8;
 }
 footer li:last-child {
     margin-right: 0
@@ -1261,6 +1261,10 @@ p.textegris {
     color: #566471;
 }
 
+img.photoequipe {
+    width: 100px;
+}
+
 /* 10 FONDATIONS */
 
 
@@ -1274,7 +1278,19 @@ p.textegris {
 }
 
 /* logos */
+#logosection {
+    padding: 2% 50px 2% 50px;
+}
 
-	.logos {
-		display: inline-block;
-	}
+.logos {
+    display: inline-block;
+}
+
+.centerbloc {
+    text-align: center;
+}
+
+#kif {
+    padding: 40px 0px 40px 0px;
+    background: #eaeff3;
+}
