@@ -703,7 +703,7 @@ Features Slider
 .features-slider li h1 {
     margin-bottom: 15px;
     color: #24374b;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 28px;
     font-family: "Roboto Slab", sans-serif;
     text-align: center;
@@ -735,7 +735,7 @@ Features Slider
 Features List
 ========================================================================== */
 .features-list {
-    padding: 130px 0;
+    padding: 40px 0;
     background-color: #eaeff3;
 }
 .features-list h1 {
@@ -817,8 +817,8 @@ Espace
 
 .features-espaces ul li h1 {
     color: #24374b;
-    font-weight: 300;
-    font-size: 32px;
+    font-weight: 400;
+    font-size: 28px;
     font-family: "Roboto Slab", sans-serif;
 }
 
