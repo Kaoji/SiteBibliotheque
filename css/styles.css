@@ -811,7 +811,7 @@ Espace
 
 .features-espaces {
     position: relative;
-    padding: 11% 100px 10% 100px;
+    padding: 6% 100px 10% 100px;
     background-color: #eaeff3;
 }
 .features-espaces ul {
@@ -834,8 +834,8 @@ Espace
     position: relative;
     padding: 2% 0 10% 0;
     color: #778899;
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 13px;
+    line-height: 23px;
 }
 .container-fluid {
     background-color: #eaeff3;
@@ -1272,3 +1272,9 @@ p.textegris {
     background-color: #eaeff3;
 }
 }
+
+/* logos */
+
+	.logos {
+		display: inline-block;
+	}
